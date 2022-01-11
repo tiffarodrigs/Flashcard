@@ -1,0 +1,27 @@
+.js-hidden {
+  display: none;
+}
+.box {
+  background-color: #f5f5f5;
+  height: 20em;
+  width: 30em;
+  border: 2px solid black;
+  padding:75px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 25px;
+  padding-top: 140px;
+}
+.clickable, .clickable1 {
+  cursor:pointer;
+  color: red;
+  font-style: bold;
+}
+.jumbotron {
+  text-align: center;
+  margin: 70px;
+}
+.op-hidden{
+  display:none;
+}
